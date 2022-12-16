@@ -1,4 +1,4 @@
-                                                               Marketing Analytics 
+                                                          Marketing Analytics 
                                                                
 This package helps to implement CLV analysis.
 
